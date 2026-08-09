@@ -21,8 +21,12 @@ We can also get rid of this as well by using an active low instead of active hig
 __________
 
 # Active High Button 
+
+<img width="1236" height="442" alt="image" src="https://github.com/user-attachments/assets/a7053312-6e14-4b16-8042-96a25d23a5a1" />
+
 # Active Low Button 
 
+<img width="1127" height="430" alt="image" src="https://github.com/user-attachments/assets/5fc31e75-fab7-4fe4-a77f-d114047a224b" />
 
 
 
