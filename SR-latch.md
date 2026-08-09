@@ -34,3 +34,7 @@ $\overline{Q}$ is necessary to complete the feedback loop and provide the comple
 Setting both $S = 1$ and $R = 1$ simultaneously is equivalent to wanting to turn a switch **ON** and **OFF** at the exact same time. 
 
 This causes a race condition where the gates compete to determine whether $Q$ or $\overline{Q}$ will be $1$. Because this outcome is entirely random and unpredictable, this state is considered invalid and should be avoided in digital design.
+
+
+# Schematic 
+<img width="702" height="767" alt="image" src="https://github.com/user-attachments/assets/05d7bed4-6fde-4e2f-a473-c000898b9cca" />
