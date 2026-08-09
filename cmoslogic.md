@@ -7,7 +7,7 @@ CMOS logic is essential because it helps decrease power consumption when the swi
 
 ## CMOS inverter
 
-![alt text](image-1.png)
+![alt text](cmosinverter.png)
 
 ___
 CMOS inverter doesn't ever waste power because the PMOS and NMOS take turns turning off so the path from 5V to gnd is always blocked. Replacing the resistor with PMOS ensures zero power loss. 
