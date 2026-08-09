@@ -3,7 +3,7 @@ CMOS logic is essential because it helps decrease power consumption when the swi
 
 ## NMOS inverter 
 
-![alt text](image.png)
+![alt text](nmosinverter.png)
 
 ## CMOS inverter
 
